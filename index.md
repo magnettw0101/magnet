@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## 強力磁鐵-NO.1專賣店
 
-You can use the [editor on GitHub](https://github.com/magnettw0101/magnet/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magnettw0101/magnet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+還不知道<a href="https://www.allergen.com.tw/magnet/" target="_blank">強力磁鐵哪裡買</a>嗎？不管是大的或小磁鐵，這裡有兩百多種規格現貨可挑，如果在這裡找不到您要的規格，也歡迎您跟我們聯絡，我們也接受客製化的訂做服務哦！強力磁鐵的生活應用可說是非常多，像是電子產品、文具用品、塑膠製品、玩具等等，有些我看得到，有些則是隱藏在商品的內部，為了怕生鏽，所以表面都會作鎳電鍍處理，透過下面的介紹，相信您也會開始喜歡使用它來便利自己的生活。<br />
+<br />
+下面是我們的規格價格表，不管是圓形、環形、方形，或是有帶孔的，這些都是客戶經常訂購的，您可以透過以下表單來訂購強力磁鐵，在訂購商品那個欄位裡，請把您要購買的規格以及數量寫下來，或者您也可以透過電話直接跟我們<a href="https://www.allergen.com.tw/magnet/" target="_blank">訂購強力磁鐵</a>。
